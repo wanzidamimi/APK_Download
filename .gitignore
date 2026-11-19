@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 运行时数据：下载的 APK 与清单
+downloads/
+
+# goopdl 令牌缓存（含敏感凭据）
+.goopdl_cache/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
